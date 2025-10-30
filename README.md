@@ -1,10 +1,10 @@
-# Project 5 - *Name of App Here*
+# Project 5 - *TumblrApp*
 
-Submitted by: **Your Name Here**
+Submitted by: **Samuel Chibuoyim Uche**
 
-**Name of your app** is an app that ... [TODO] 
+**TumblrApp** is an app that uses an API to fetch data for users to read and displays it using a UITableView
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -21,13 +21,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] The App can have a dropdown button that allows users to choose what blog to fetch data from
+- [x] The App can have a dropdown button that allows users to choose what blog to fetch data from and display it
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
@@ -35,7 +32,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Samuel Chibuoyim Uche]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
